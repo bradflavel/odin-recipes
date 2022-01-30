@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project to do whilst doing The Odin Project. The goal is to create a basic website displaying recipes, to demonstrate knowledge in creating web page boilerplates and using hyperlinks.
